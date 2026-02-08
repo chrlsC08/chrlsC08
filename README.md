@@ -44,6 +44,6 @@ I’m a firm believer that happy people are more effective engineers. Here’s w
 
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/Portfolio-Online-brightgreen?style=for-the-badge&logo=google-chrome">](https://www.portfoliocc.online)
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](www.linkedin.com/in/charles-cunningham-jr-a4187988)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/charles-cunningham-jr-a4187988)
 
 > "The people who are staying connected to their lives are much happier, and happier people are way more effective in the work that they do." — *Kevin Cleary*
