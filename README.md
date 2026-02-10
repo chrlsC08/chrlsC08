@@ -1,5 +1,8 @@
 # Hi, I'm Charles 👋
 
+<p align="center">
+  <img src="ChatGPTCaricature.png" alt="Charles Caricature" width="300">
+</p>
 ### ☁️ Cloud & DevOps Enthusiast | World Traveler
 Connecting the world, one fiber splice and Terraform apply at a time.
 
