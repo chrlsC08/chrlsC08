@@ -3,7 +3,8 @@
 <p align="center">
   <img src="ChatGPTCaricature.png" alt="Charles Caricature" width="300">
 </p>
-### ☁️ Cloud & DevOps Enthusiast | World Traveler
+
+### ☁️ Cloud & DevOps Enthusiast | World Traveler  
 Connecting the world, one fiber splice and Terraform apply at a time.
 
 I am an IT professional with over 4 years of experience, currently focused on automating the cloud and building reliable, scalable infrastructure. I believe in continuous learning and I'm building projects to demonstrate my expertise in modern DevOps practices.
